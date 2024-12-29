@@ -335,3 +335,20 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [23:27:45] [Server thread/INFO]: chat.type.admin
 [23:29:29] [Server thread/INFO]: chat.type.advancement.task
 [23:29:35] [Server thread/INFO]: chat.type.advancement.task
+[23:32:13] [Server thread/INFO]: [Not Secure] chat.type.text
+[23:32:33] [Server thread/INFO]: chat.type.advancement.task
+[23:34:56] [Server thread/INFO]: chat.type.advancement.task
+[23:35:04] [Server thread/INFO]: chat.type.admin
+[23:35:53] [Server thread/INFO]: chat.type.advancement.task
+[23:36:01] [Server thread/INFO]: chat.type.advancement.task
+[23:36:58] [Server thread/INFO]: chat.type.advancement.task
+[23:37:52] [Server thread/INFO]: death.attack.explosion.player
+[23:38:16] [Server thread/INFO]: chat.type.admin
+[23:38:37] [Server thread/INFO]: davixelpro123 lost connection: disconnect.timeout
+[23:38:37] [Server thread/INFO]: multiplayer.player.left
+[23:38:43] [Server thread/INFO]: davixelpro123[/127.228.179.127:52361] logged in with entity id 3490 at (349.5426851259705, 217.10408037809304, 0.48245067399535035)
+[23:38:43] [Server thread/INFO]: Loading config from file...
+[23:38:43] [Server thread/INFO]: multiplayer.player.joined
+[23:38:57] [Server thread/INFO]: chat.type.admin
+[23:39:28] [Server thread/INFO]: chat.type.admin
+[23:40:13] [Server thread/INFO]: chat.type.advancement.task
